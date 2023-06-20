@@ -8,6 +8,7 @@
 
 
 ## Short Description: 
+Jupiter notebook is the platform used for performing operations on numpy and matplotlib libraries in python. Numpy is useful for for large multi-dimensional array and matrix processing where as Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations.Here in this assignment i have implemeneted properties like shape,type,datatype of array and computing eigen vectors, eigen values of array along with caluclating sum of diagonal elements in array using numpy library in python and I have created a pie chart of programming languages using matplotlib library in python.
 
 
 
